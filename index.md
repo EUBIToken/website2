@@ -63,3 +63,33 @@ If you invested in bEUBI tokens, this calculator will come in handy
 [bEUBI lambo calculator](https://eubitoken.github.io/EUBI2lambo/)
 
 We are still uncertain about how much profit shares can we send to PolyEUBI HODLers since it's so new.
+
+# Links
+
+[EUBI Token website](https://eubitoken.com)
+
+[bEUBI token website](https://beubitoken.com)
+
+[EUB Insurance LLC website](https://www.eubinsurance.com/)
+
+[bEUBI exchange](https://beubiexchange.com/)
+
+[Trade bEUBI on MintME.com exchange](https://www.mintme.com/token/bEUBI/trade)
+
+[Trade EUBI on MintME.com exchange](https://www.mintme.com/token/bEUBI/trade)
+
+[Our cryptocurrency exchange](https://eubcompany.com/)
+
+[MintyDEFI - Our DeFi exchange](https://1000x.ch/swap)
+
+[MyEUBIWallet v2.1: Ultimate web wallet](https://wallet.polyeubitoken.com)
+
+[bEUBI token on bscscan](https://bscscan.com/token/0x27faaa5bd713dcd4258d5c49258fbef45314ae5d)
+
+[EUBI token on MintME.com blockchain explorer](https://www.mintme.com/explorer/token/0x8AFA1b7a8534D519CB04F4075D3189DF8a6738C1)
+
+[Our Discord server](https://discord.gg/8HSVFxjTjy)
+
+**CRYPTOCURRENCIES INCLUDING, WITHOUT LIMITATION, BITCOIN AND ETHEREUM ARE VERY HIGH-RISK INVESTMENTS THAT ARE NOT SUITABLE FOR ALL INVESTORS. CRYPTOCURRENCIES ARE SUBJECT TO EXTREME PRICE VOLATILITY. SPECULATING ON CRYPTOCURRENCIES SHOULD ONLY BE PERFORMED BY SOPHISTICATED INVESTORS THAT ARE PREPARED TO LOSE THEIR ENTIRE INVESTMENT. CRYPTOCURRENCIES DO NOT HAVE ANY INTRINSIC VALUE AND MAY BECOME WORTHLESS. IF YOU ARE NOT PREPARED TO ACCEPT THESE RISKS, DO NOT INVEST IN CRYPTOCURRENCIES.**
+
+**Conflict-of-interest disclaimer: Jessie Lesbian is the Blockchain Director of EUB Insurance LLC, and receives a 0.25% stake in the project.**
