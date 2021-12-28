@@ -57,6 +57,11 @@ We don't have one, but we do pay profit shares to liquidity providers for the Po
 ## Why do you hold nearly all tokens in circulation?
 Simple: we haven't sold them. Please help us sell more tokens by buying more tokens and spread the word.
 
+## Why deploy on so many blockchains?
+The decommissioning of the EUBI token was intially recommended by our blockchain director to our CEO due to concerns about the security of the MintME blockchain. When we first launched bEUBI on Binance Smart Chain, we intended to support both EUBI on MintME and bEUBI on Binance Smart Chain. Then, MintME.com raised the fees and DogecoinX backstabbed on us, and that's why we decomissioned the old EUBI token on MintME.
+
+Unless something extremely bad happens to Binance Smart Chain, we are not decommissioning the bEUBI token. Also, we have deployment on rollups like Optimistic Ethereum and zkSync on our to-do list, so please stay tuned by joining our Discord server to not miss those launches!
+
 ## When moon? When lambo?
 If you invested in bEUBI tokens, this calculator will come in handy
 
