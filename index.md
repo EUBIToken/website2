@@ -89,6 +89,8 @@ We are still uncertain about how much profit shares can we send to PolyEUBI HODL
 
 [MyEUBIWallet v2.1: Ultimate web wallet](https://wallet.polyeubitoken.com)
 
+[PolyEUBI token on PolygonScan](https://polygonscan.com/token/0x553E77F7f71616382B1545d4457e2c1ee255FA7A)
+
 [bEUBI token on bscscan](https://bscscan.com/token/0x27faaa5bd713dcd4258d5c49258fbef45314ae5d)
 
 [EUBI token on MintME.com blockchain explorer](https://www.mintme.com/explorer/token/0x8AFA1b7a8534D519CB04F4075D3189DF8a6738C1)
