@@ -75,6 +75,8 @@ We are still uncertain about how much profit shares can we send to PolyEUBI HODL
 
 [bEUBI token website](https://beubitoken.com)
 
+[Jessie Lesbian Cryptocurrency Exchange](https://exchange.polyeubitoken.com/)
+
 [EUB Insurance LLC website](https://www.eubinsurance.com/)
 
 [bEUBI exchange](https://beubiexchange.com/)
