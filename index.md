@@ -34,7 +34,9 @@ Marketing Partner – dezentrale@eubitoken.com
 ## How do I invest in your project?
 The original EUBI token on the MintME blockchain was abandoned due to problems with the MintME.com platform (bad exchange, insecure blockchain, and DogecoinX backstabbing on us), so we deployed 2 new tokens to replace the original one: [bEUBI token on Binance Smart Chain](https://www.beubitoken.com) and PolyEUBI on Polygon Blockchain. For PolyEUBI, we also have a massive 1inch limit order to sell tokens.
 
-Our PolyEUBI presale contract is located at 0xa8b365da6d0d7b41cef3778aa906212c096aaabd. Send some MATIC (Polygon Blockchain) to the smart contract, and it will send you back some PolyEUBI tokens. We send profit shares to HODLers manually for now, since we don't have a lot of HODLers, but we are considering staking contracts and buyback-and-burn in the future. And finally, it is recommended that you use [MyEUBIWallet v2.1](https://wallet.polyeubitoken.com) to store your tokens. MyEUBIWallet v2.1 connects to both Polygon and Binance Smart Chain at the same time using extremely fast Moralis speedy nodes, and uses the most secure and heavily-optimized JavaScript coding standard possible.
+The recommended way to buy PolyEUBI is [1inch](https://app.1inch.io/#/137/swap/USDC/0x553E77F7f71616382B1545d4457e2c1ee255FA7A), but if you don't have MATIC for Polygon gas fees, then you can use the [Jessie Lesbian Cryptocurrency Exchange](https://exchange.polyeubitoken.com).
+
+We send profit shares to HODLers manually for now, since we don't have a lot of HODLers, but we are considering staking contracts and buyback-and-burn in the future. And finally, it is recommended that you use [MyEUBIWallet v2.1](https://wallet.polyeubitoken.com) to store your tokens. MyEUBIWallet v2.1 connects to both Polygon and Binance Smart Chain at the same time using extremely fast Moralis speedy nodes, and uses the most secure and heavily-optimized JavaScript coding standard possible.
 
 ## How are your initial token supply allocated?
 900,000 PolyEUBI minted to Bela Balog, who is responsible for running the insurance company, like we talked about earlier
