@@ -29,6 +29,24 @@ Bronze Partner – musdasch@eubitoken.com
 
 Marketing Partner – dezentrale@eubitoken.com
 
+# Risk disclosure
+
+## General cryptocurrency investment risks
+**CRYPTOCURRENCIES INCLUDING, WITHOUT LIMITATION, BITCOIN AND ETHEREUM ARE VERY HIGH-RISK INVESTMENTS THAT ARE NOT SUITABLE FOR ALL INVESTORS. CRYPTOCURRENCIES ARE SUBJECT TO EXTREME PRICE VOLATILITY. SPECULATING ON CRYPTOCURRENCIES SHOULD ONLY BE PERFORMED BY SOPHISTICATED INVESTORS THAT ARE PREPARED TO LOSE THEIR ENTIRE INVESTMENT. CRYPTOCURRENCIES DO NOT HAVE ANY INTRINSIC VALUE AND MAY BECOME WORTHLESS. IF YOU ARE NOT PREPARED TO ACCEPT THESE RISKS, DO NOT INVEST IN CRYPTOCURRENCIES.**
+
+## PolyEUBI-specific investment risks
+
+### Profit shares
+Our profit share payments are calculated based on how much profits our business generated. In times of financial difficulty, profit shares may be small, late, or not paid out at all. Profit share payment amounts are unpredictable, and are not indications of future performance. We may permanently stop profit shares if any of these events occour.
+
+1. Bankruptcy
+2. Major theft of EUBI/bEUBI/PolyEUBI tokens (e.g exchange hack)
+3. Underlying blockchain failures
+4. And many other adverse business events
+
+### Limited liability
+We can guarantee that you never lose more money than what you already invested in EUBI/bEUBI/PolyEUBI tokens.
+
 # Frequently Asked Questions
 
 ## How do I invest in your project?
@@ -100,7 +118,5 @@ We are still uncertain about how much profit shares can we send to PolyEUBI HODL
 [EUBI token on MintME.com blockchain explorer](https://www.mintme.com/explorer/token/0x8AFA1b7a8534D519CB04F4075D3189DF8a6738C1)
 
 [Our Discord server](https://discord.gg/8HSVFxjTjy)
-
-**CRYPTOCURRENCIES INCLUDING, WITHOUT LIMITATION, BITCOIN AND ETHEREUM ARE VERY HIGH-RISK INVESTMENTS THAT ARE NOT SUITABLE FOR ALL INVESTORS. CRYPTOCURRENCIES ARE SUBJECT TO EXTREME PRICE VOLATILITY. SPECULATING ON CRYPTOCURRENCIES SHOULD ONLY BE PERFORMED BY SOPHISTICATED INVESTORS THAT ARE PREPARED TO LOSE THEIR ENTIRE INVESTMENT. CRYPTOCURRENCIES DO NOT HAVE ANY INTRINSIC VALUE AND MAY BECOME WORTHLESS. IF YOU ARE NOT PREPARED TO ACCEPT THESE RISKS, DO NOT INVEST IN CRYPTOCURRENCIES.**
 
 **Conflict-of-interest disclaimer: Jessie Lesbian is the Blockchain Director of EUB Insurance LLC, and receives a 0.25% stake in the project.**
